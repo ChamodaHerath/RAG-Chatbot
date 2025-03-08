@@ -32,4 +32,7 @@ The project relies on the following Python packages:
 - `faiss-cpu`: For vector storage and similarity search.  
 - `python-dotenv`: For loading environment variables.  
 
-For a full list of dependencies, see the `requirements.txt` file. 
+For a full list of dependencies, see the `requirements.txt` file.
+
+![image](https://github.com/user-attachments/assets/23d67a6f-22a1-4e87-941b-e5f994f73476)
+
