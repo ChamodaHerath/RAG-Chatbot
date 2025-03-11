@@ -34,5 +34,6 @@ The project relies on the following Python packages:
 
 For a full list of dependencies, see the `requirements.txt` file.
 
-![image](https://github.com/user-attachments/assets/23d67a6f-22a1-4e87-941b-e5f994f73476)
+![image](https://github.com/user-attachments/assets/e00d4494-9ca2-4870-8ed6-91b14a0edf46)
+
 
